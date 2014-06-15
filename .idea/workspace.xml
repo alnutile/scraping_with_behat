@@ -22,10 +22,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="behat.yml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tests/behat.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="6" selection-start="11" selection-end="11" vertical-scroll-proportion="0.01986755" vertical-offset="0" max-vertical-offset="755">
+            <state line="12" column="26" selection-start="288" selection-end="288" vertical-scroll-proportion="0.23841059" vertical-offset="0" max-vertical-offset="755">
               <folding />
             </state>
           </provider>
@@ -44,7 +44,6 @@
         <option value="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" />
         <option value="$PROJECT_DIR$/.env" />
         <option value="$PROJECT_DIR$/test.php" />
-        <option value="$PROJECT_DIR$/tests/behat.yml" />
         <option value="$PROJECT_DIR$/tests/features/bootstrap/amazon.feature" />
         <option value="$PROJECT_DIR$/behat.yml" />
         <option value="$PROJECT_DIR$/vendor/behat/mink-extension/src/Behat/MinkExtension/Context/MinkDictionary.php" />
@@ -54,6 +53,7 @@
         <option value="$PROJECT_DIR$/tests/features/bootstrap/FeatureContext.php" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/readme.md" />
+        <option value="$PROJECT_DIR$/tests/behat.yml" />
       </list>
     </option>
   </component>
@@ -478,13 +478,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/behat.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="13" selection-start="119" selection-end="119" vertical-scroll-proportion="0.1212938" vertical-offset="0" max-vertical-offset="742">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.env">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="43" selection-start="535" selection-end="535" vertical-scroll-proportion="0.084033616" vertical-offset="0" max-vertical-offset="357">
@@ -596,6 +589,13 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="6" selection-start="11" selection-end="11" vertical-scroll-proportion="0.01986755" vertical-offset="0" max-vertical-offset="755">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/behat.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="26" selection-start="288" selection-end="288" vertical-scroll-proportion="0.23841059" vertical-offset="0" max-vertical-offset="755">
           <folding />
         </state>
       </provider>

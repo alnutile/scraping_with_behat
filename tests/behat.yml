@@ -11,19 +11,3 @@ default:
       selenium2: ~
       base_url: 'http://amazon.com'
       browser_name: safari
-
-saucelabs:
-  extensions:
-    Behat\MinkExtension\Extension:
-      default_session: selenium2
-      base_url: 'http://en.wikipedia.org/wiki/'
-      selenium2:
-        browser: chrome
-        wd_host: 'behat-seed:fc5b688a-f27c-4c73-a914-eb5d7e2cdf1e@ondemand.saucelabs.com/wd/hub'
-        capabilities:
-          platform: 'Windows 2012'
-          browser: chrome
-          version: '26'
-          name: 'Behat See'
-          command-timeout: '600'
-          max-duration: '600'
